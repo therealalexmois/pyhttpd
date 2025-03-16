@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="http://localhost:8080/index.html"
+URL="http://127.0.0.1:8080/index.html"
 
 echo "Starting load tests on $URL"
 
